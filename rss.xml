@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[AV Financial]]></title>
         <description><![CDATA[AV Financial]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/av-financial/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 00:50:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 00:51:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/av-financial/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Our Vision]]></title>
+            <description><![CDATA[<article><h1>Our Vision</h1><p>Encompass complete financial health and well being for our clients, by building relationships and creating a memorable client experience.</p></article>]]></description>
+            <link>https://thegrid.ai/av-financial/c36cbfa3-050b-4c2b-beb5-1ceeb68ccf65/index.html</link>
+            <guid isPermaLink="false">c36cbfa3-050b-4c2b-beb5-1ceeb68ccf65</guid>
+            <pubDate>Wed, 03 Feb 2016 00:51:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Aaron Vissia, CFP, CEBS</p>]]></description>
-            <link>undefined4c61622a-b0a9-4031-b5a1-d2c955371c10/index.html</link>
+            <link>https://thegrid.ai/av-financial/4c61622a-b0a9-4031-b5a1-d2c955371c10/index.html</link>
             <guid isPermaLink="false">4c61622a-b0a9-4031-b5a1-d2c955371c10</guid>
             <pubDate>Wed, 03 Feb 2016 00:50:28 GMT</pubDate>
         </item>
