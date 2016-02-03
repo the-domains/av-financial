@@ -1,7 +1,7 @@
 name: AV Financial
 favicon: null
-layout_spectrum: 0.6652811351232231
-typography_spectrum: 0.49023262970149517
+layout_spectrum: 0
+typography_spectrum: 0.13815
 cta:
   domain: null
   bucket: null
